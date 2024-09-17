@@ -6,4 +6,6 @@ TO use this project locally you must have node.js(js runtime environment) instal
 to clone it use git bash in windows or terminal in mac 
 open folder in which you want clone
 open git bash / terminal in that folder
-and type : git clone 
+
+
+and type : git clone https://github.com/Prirathore/full_stack_QR_generator-.git
